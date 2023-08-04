@@ -1,4 +1,4 @@
-'use-client';
+'use client';
 
 import { TbPlaylist } from 'react-icons/tb';
 import { AiOutlinePlus } from 'react-icons/ai';
